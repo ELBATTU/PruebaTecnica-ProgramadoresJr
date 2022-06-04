@@ -1,5 +1,5 @@
 # PruebaTecnica-ProgramadoresJr
-En este repositorio se encuentran ejercicios que pueden servir de ayuda para Programadores Jr, estos en los lenguajes Java, JavaScript y Python.
+En este repositorio se encuentran ejercicios que pueden servir de ayuda para Programadores Jr, estos en los lenguajes Java y Python.
 Los ejercicios que incluyen para todos los lenguajes son:
 1.- Invertir una cadena de texto
 2.- Calcular cuantas veces se repite un caracter
